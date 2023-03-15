@@ -5,7 +5,7 @@ Various metrics on some of our open source project - _Work-in-Progress_
 
 # Swagger Projects Combined
 
-For full information on the Swagger open source projects, check out the [Swagger](https://github.com/swagger-api) GitHub repo.
+For full information on the Swagger open source projects, check out the [Swagger](https://github.com/swagger-api) GitHub Org.
 
 ## GitHub Stars ⭐
 
@@ -32,7 +32,9 @@ For full information on the Swagger open source projects, check out the [Swagger
 
 # Pact / PactFlow Projects Combined
 
-For full information on the Pact open source projects, check out the [Pact](https://github.com/pact-foundation) GitHub repo. For PactFlow, head over to [PactFlow](https://github.com/pactflow) GitHub repo.
+For full information on the Pact open source projects, check out the [Pact](https://github.com/pact-foundation) GitHub Org. 
+
+For PactFlow's open source projects, head over to [PactFlow](https://github.com/pactflow) GitHub Org.
 
 ## GitHub Stars ⭐
 
