@@ -48,6 +48,10 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 
 ![GitHub PRs](./images/pact-pactflow/PRs-Opened-Merged.png)
 
+## PRs Opened & Merged (Community)
+
+![GitHub PRs Community](./images/pact-pactflow/PRs-Opened-Merged-Community.png)
+
 ## Issue & Discussion Participation
 
 ![GitHub Issues or Discussions](./images/pact-pactflow/Issue-Participation.png)
