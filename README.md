@@ -58,3 +58,28 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 
 ## Slack Activity
 ![Slack Activity](./images/pact-pactflow/Slack-Activity.png)
+
+
+# SoapUI
+
+For SoapUI open source project information, head over to [SoapUI](https://github.com/SmartBear/soapui) GitHub repository.
+
+## GitHub Stars ⭐
+
+![GitHub Stars](./images/soapui/GitHub-Stars.png)
+
+## GitHub Forks 
+
+![GitHub Forks](./images/soapui/GitHub-Forks.png)
+
+## PRs Opened & Merged
+
+![GitHub PRs](./images/soapui/PRs-Opened-Merged.png)
+
+## PRs Opened & Merged (Community)
+
+![GitHub PRs Community](./images/soapui/PRs-Opened-Merged-Community.png)
+
+## Issue & Discussion Participation
+
+![GitHub Issues or Discussions](./images/soapui/Issue-Participation.png)
