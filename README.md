@@ -1,7 +1,7 @@
 # open-source-metrics
 Various metrics on some of our open source project - _Work-in-Progress_
 
-📅 Extracted on August 21st 2023
+📅 Extracted on Sept 26th 2023
 
 # Swagger Projects Combined
 
@@ -51,10 +51,10 @@ For full information on the Swagger open source projects, check out the [Swagger
 
 | Month | Issues Opened | Issue Comments | Discussion Created | Discussion Comment | Discussion Reply
 | ----- | ------ | ------ |------ |------ |------ |
-| June 2023 | 241 | 1904 | 0 | 0 | 0 |
-| July 2023 | 223 | 1936 | 0 | 0 | 0 |
-| Aug 2023 | 191 | 1907 | 0 | 0 | 0 |
-| Sept 2023 | 194 | 1885 | 0 | 0 | 0 |
+| June 2023 | 75 | 620 | 0 | 0 | 0 |
+| July 2023 | 66 | 681 | 0 | 0 | 0 |
+| Aug 2023 | 71 | 636 | 0 | 0 | 0 |
+| Sept 2023 | 54 | 521 | 0 | 0 | 0 |
 
 
 
@@ -110,9 +110,10 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 
 | Month | Issues Opened | Issue Comments | Discussion Created | Discussion Comment | Discussion Reply
 | ----- | ------ | ------ |------ |------ |------ |
-| June 2023 | 73 | 108 | 3 | 3 | 5 |
-| July 2023 | 72 | 96 | 2 | 2 | 4 |
-| Aug 2023 | 61 | 80 | 3 | 1 | 0 |
+| June 2023 | 22 | 35 | 1 | 0 | 0 |
+| July 2023 | 25 | 38 | 0 | 0 | 0 |
+| Aug 2023 | 20 | 34 | 3 | 3 | 2 |
+| Sept 2023 | 31 | 38 | 0 | 1 | 2 |
 
 ## Slack Activity
 
@@ -122,7 +123,6 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | July 2023 | 83 | 87 | 84 |
 | Aug 2023 | 87 | 86 | 79 |
 | Sept 2023 | 56 | 31 | 63 |
-
 
 
 
