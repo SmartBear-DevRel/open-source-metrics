@@ -156,7 +156,7 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | June 2023 | 579|
 | July 2023 | 580 |
 | Aug 2023 | 583 |
-| Sept 2023 | 586|
+| Sept 2023 | 586 |
 | Oct 2023 | 586 |
 
 ## PRs Opened & Merged
@@ -168,8 +168,6 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Aug 2023 | 1 | 0 |
 | Sept 2023 | 1 | 1 |
 | Oct 2023 | 0 | 0 |
-
-
 
 ## PRs Opened & Merged (Community)
 
