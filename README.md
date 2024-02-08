@@ -1,7 +1,7 @@
 # open-source-metrics
 Various metrics on some of our open source project - _Work-in-Progress_
 
-📅 Extracted on Jan 29th, 2024
+📅 Extracted on Feb 8th, 2024
 
 # Swagger Projects Combined
 
@@ -20,6 +20,7 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Oct 2023 | 68,517 |
 | Nov 2023 | 68,913 |
 | Dec 2023 | 69,303 |
+| Jan 2024 | 69,739 |
 
 ## GitHub Forks 
 
@@ -34,6 +35,7 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Oct 2023 | 21,338 |
 | Nov 2023 | 21,462 |
 | Dec 2023 | 21,521 |
+| Jan 2024 | 21,602 |
 
 ## PRs Opened & Merged
 
@@ -46,6 +48,7 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Oct 2023 | 146 | 132 |
 | Nov 2023 | 141 | 145 |
 | Dec 2023 | 73 | 68 |
+| Jan 2024 | 134 | 120 |
 
 ## PRs Opened & Merged (Community)
 
@@ -58,6 +61,7 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Oct 2023 | 21 | 9 |
 | Nov 2023 | 18 | 23 |
 | Dec 2023 | 9 | 7 |
+| Jan 2024 | 20 | 9 |
 
 ## Issue & Discussion Participation
 
@@ -70,6 +74,7 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Oct 2023 | 67 | 584 | 0 | 0 | 0 |
 | Nov 2023 | 69 | 744 | 0 | 0 | 0 |
 | Dec 2023 | 46 | 465 | 0 | 0 | 0 |
+| Jan 2024 | 96 | 835 | 0 | 0 | 0 |
 
 # Pact / PactFlow Projects Combined
 
@@ -89,7 +94,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Sept 2023 | 10,018 |
 | Oct 2023 | 10,096 |
 | Nov 2023 | 10,151 |
-| Dec 2023 | 10,256 |
+| Dec 2023 | 10,199 |
+| Jan 2024 | 10,256 |
 
 ## GitHub Forks 
 
@@ -104,6 +110,7 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Oct 2023 | 4,680 |
 | Nov 2023 | 4,785 |
 | Dec 2023 | 4,857 |
+| Jan 2024 | 4,929 |
 
 ## PRs Opened & Merged
 
@@ -116,6 +123,7 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Oct 2023 | 23 | 16 |
 | Nov 2023 | 22 | 12 |
 | Dec 2023 | 14 | 11 |
+| Jan 2024 | 15 | 14 |
 
 ## PRs Opened & Merged (Community)
 
@@ -128,6 +136,7 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Oct 2023 | 19 | 12 |
 | Nov 2023 | 17 | 7 |
 | Dec 2023 | 8 | 5 |
+| Jan 2024 | 10 | 9 |
 
 ## Issue & Discussion Participation
 
@@ -140,6 +149,7 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Oct 2023 | 43 | 27 | 0 | 0 | 0 |
 | Nov 2023 | 25 | 41 | 4 | 4 | 3 |
 | Dec 2023 | 22 | 20 | 1 | 0 | 0 |
+| Jan 2024 | 33 | 41 | 1 | 2 | 0 |
 
 ## Slack Activity
 
@@ -152,6 +162,7 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Oct 2023 | 97 | 81 | 83 |
 | Nov 2023 | 60 | 72 | 66 |
 | Dec 2023 | 61 | 55 | 58 |
+| Jan 2024 | 108 | 68 | 63 |
 
 # SoapUI
 
@@ -170,6 +181,7 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 1,462 |
 | Nov 2023 | 1,473 |
 | Dec 2023 | 1,498 |
+| Jan 2024 | 1500 |
 
 ## GitHub Forks 
 
@@ -184,6 +196,7 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 586 |
 | Nov 2023 | 591 |
 | Dec 2023 | 595 |
+| Jan 2024 | 596 |
 
 ## PRs Opened & Merged
 
@@ -196,6 +209,7 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 0 | 0 |
 | Nov 2023 | 2 | 2 |
 | Dec 2023 | 0 | 0 |
+| Jan 2024 | 0 | 0 |
 
 ## PRs Opened & Merged (Community)
 
@@ -208,6 +222,7 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 0 | 0 |
 | Nov 2023 | 1 | 0 |
 | Dec 2023 | 0 | 0 |
+| Jan 2024 | 0 | 0 |
 
 ## Issue & Discussion Participation
 
@@ -220,3 +235,4 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 1 | 6 | 0 | 0 | 0 |
 | Nov 2023 | 2 | 5 | 0 | 0 | 0 |
 | Dec 2023 | 2 | 3 | 0 | 0 | 0 |
+| Jan 2024 | 4 | 4 | 0 | 0 | 0 |
