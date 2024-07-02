@@ -1,7 +1,7 @@
 # open-source-metrics
 Various metrics on some of our open source project - _Work-in-Progress_
 
-📅 Extracted on Feb 8th, 2024
+📅 Extracted on Jul 2nd, 2024
 
 # Swagger Projects Combined
 
