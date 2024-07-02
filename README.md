@@ -21,6 +21,9 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Nov 2023 | 68,913 |
 | Dec 2023 | 69,303 |
 | Jan 2024 | 69,739 |
+| Apr 2024 | 70,950 |
+| May 2024 | 71,465 |
+ 
 
 ## GitHub Forks 
 
@@ -36,6 +39,8 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Nov 2023 | 21,462 |
 | Dec 2023 | 21,521 |
 | Jan 2024 | 21,602 |
+| Apr 2024 | 21,934 |
+| May 2024 | 22,029 |
 
 ## PRs Opened & Merged
 
@@ -49,6 +54,8 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Nov 2023 | 141 | 145 |
 | Dec 2023 | 73 | 68 |
 | Jan 2024 | 134 | 120 |
+| Apr 2024 | 110 | 92 |
+| May 2024 | 125 | 103 |
 
 ## PRs Opened & Merged (Community)
 
@@ -62,6 +69,8 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Nov 2023 | 18 | 23 |
 | Dec 2023 | 9 | 7 |
 | Jan 2024 | 20 | 9 |
+| Apr 2024 | 26 | 9 |
+| May 2024 | 21 | 8 |
 
 ## Issue & Discussion Participation
 
@@ -75,6 +84,8 @@ For full information on the Swagger open source projects, check out the [Swagger
 | Nov 2023 | 69 | 744 | 0 | 0 | 0 |
 | Dec 2023 | 46 | 465 | 0 | 0 | 0 |
 | Jan 2024 | 96 | 835 | 0 | 0 | 0 |
+| Apr 2024 | 95 | 780 | 0 | 0 | 0 |
+| May 2024 | 81 | 707 | 0 | 0 | 0 |
 
 # Pact / PactFlow Projects Combined
 
@@ -96,6 +107,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 10,151 |
 | Dec 2023 | 10,199 |
 | Jan 2024 | 10,256 |
+| Apr 2024 | 10,471 |
+| May 2024 | 10,543 |
 
 ## GitHub Forks 
 
@@ -111,6 +124,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 4,785 |
 | Dec 2023 | 4,857 |
 | Jan 2024 | 4,929 |
+| Apr 2024 | 5,160 |
+| May 2024 | 5,245 |
 
 ## PRs Opened & Merged
 
@@ -124,6 +139,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 22 | 12 |
 | Dec 2023 | 14 | 11 |
 | Jan 2024 | 15 | 14 |
+| Apr 2024 | 17 | 10 |
+| May 2024 | 21 | 15 |
 
 ## PRs Opened & Merged (Community)
 
@@ -137,6 +154,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 17 | 7 |
 | Dec 2023 | 8 | 5 |
 | Jan 2024 | 10 | 9 |
+| Apr 2024 | 11 | 5 |
+| May 2024 | 16 | 10 |
 
 ## Issue & Discussion Participation
 
@@ -150,6 +169,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 25 | 41 | 4 | 4 | 3 |
 | Dec 2023 | 22 | 20 | 1 | 0 | 0 |
 | Jan 2024 | 33 | 41 | 1 | 2 | 0 |
+| Apr 2024 | 28 | 41 | 1 | 1 | 0 |
+| May 2024 | 26 | 45 | 0 | 0 | 0 |
 
 ## Slack Activity
 
@@ -163,6 +184,8 @@ For PactFlow's open source projects, head over to [PactFlow](https://github.com/
 | Nov 2023 | 60 | 72 | 66 |
 | Dec 2023 | 61 | 55 | 58 |
 | Jan 2024 | 108 | 68 | 63 |
+| Apr 2024 | 55 | 55 | 60 |
+| Jan 2024 | 74 | 66 | 59 |
 
 # SoapUI
 
@@ -181,7 +204,9 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Oct 2023 | 1,462 |
 | Nov 2023 | 1,473 |
 | Dec 2023 | 1,498 |
-| Jan 2024 | 1500 |
+| Jan 2024 | 1,500 |
+| Apr 2024 | 1,541 |
+| May 2024 | 1,553 |
 
 ## GitHub Forks 
 
@@ -197,6 +222,8 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Nov 2023 | 591 |
 | Dec 2023 | 595 |
 | Jan 2024 | 596 |
+| Apr 2024 | 609 |
+| May 2024 | 613 |
 
 ## PRs Opened & Merged
 
@@ -210,6 +237,8 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Nov 2023 | 2 | 2 |
 | Dec 2023 | 0 | 0 |
 | Jan 2024 | 0 | 0 |
+| Apr 2024 | 0 | 0 |
+| May 2024 | 0 | 0 |
 
 ## PRs Opened & Merged (Community)
 
@@ -223,6 +252,8 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Nov 2023 | 1 | 0 |
 | Dec 2023 | 0 | 0 |
 | Jan 2024 | 0 | 0 |
+| Apr 2024 | 0 | 0 |
+| May 2024 | 0 | 0 |
 
 ## Issue & Discussion Participation
 
@@ -236,3 +267,5 @@ For SoapUI open source project information, head over to [SoapUI](https://github
 | Nov 2023 | 2 | 5 | 0 | 0 | 0 |
 | Dec 2023 | 2 | 3 | 0 | 0 | 0 |
 | Jan 2024 | 4 | 4 | 0 | 0 | 0 |
+| Apr 2024 | 1 | 1 | 0 | 0 | 0 |
+| May 2024 | 2 | 7 | 0 | 0 | 0 |
